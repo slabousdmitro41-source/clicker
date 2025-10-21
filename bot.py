@@ -1,4 +1,4 @@
-⚝передоз сна⚝ [SK], [21.10.2025 17:42]
+
 import telebot
 from telebot import types
 import time
